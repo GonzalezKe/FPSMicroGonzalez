@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 2070
+  controlID: 4886
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -49,8 +49,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 223
     y: 19
-    width: 886
-    height: 810
+    width: 885
+    height: 812
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -97,10 +97,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 886
-      height: 789
-    m_Scale: {x: 0.34609374, y: 0.34609374}
-    m_Translation: {x: 443, y: 394.50003}
+      width: 885
+      height: 791
+    m_Scale: {x: 0.34570312, y: 0.34570312}
+    m_Translation: {x: 442.5, y: 395.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -108,12 +108,12 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -1280
-      y: -1139.8646
+      y: -1144.0452
       width: 2560
-      height: 2279.7292
+      height: 2288.0903
     m_MinimalGUI: 1
-  m_defaultScale: 0.34609374
-  m_LastWindowPixelSize: {x: 886, y: 810}
+  m_defaultScale: 0.34570312
+  m_LastWindowPixelSize: {x: 885, y: 812}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -138,12 +138,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1110
+    width: 1109
     height: 1298
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 2071
+  controlID: 4887
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -163,12 +163,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1110
-    height: 831
+    width: 1109
+    height: 833
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 2072
+  controlID: 4888
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,7 +187,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 222
-    height: 831
+    height: 833
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 6}
@@ -219,7 +219,7 @@ MonoBehaviour:
     x: 1
     y: 81
     width: 221
-    height: 810
+    height: 812
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -229,7 +229,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 380cfcffc27a0300c67a0300
+      m_ExpandedIDs: 325affff445affff30fbffff746e0000da6e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -270,8 +270,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 222
     y: 0
-    width: 888
-    height: 831
+    width: 887
+    height: 833
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 2}
@@ -304,8 +304,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 223
     y: 81
-    width: 886
-    height: 810
+    width: 885
+    height: 812
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -315,9 +315,9 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -254, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
-      snapCorner: 1
+      snapOffset: {x: 0, y: 0}
+      snapOffsetDelta: {x: 0, y: 0}
+      snapCorner: 0
       id: unity-transform-toolbar
       index: 0
       layout: 4
@@ -327,7 +327,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-scene-view-toolbar
       index: 0
@@ -338,7 +338,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-grid-and-snap-toolbar
       index: 1
@@ -349,7 +349,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Light Settings
       index: 0
@@ -360,7 +360,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Orientation
       index: 1
@@ -371,7 +371,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Camera
       index: 2
@@ -382,7 +382,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Cloth Constraints
       index: 3
@@ -393,7 +393,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Cloth Collisions
       index: 4
@@ -404,7 +404,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Navmesh Display
       index: 5
@@ -415,7 +415,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Agent Display
       index: 6
@@ -426,7 +426,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Obstacle Display
       index: 7
@@ -437,7 +437,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Occlusion Culling
       index: 8
@@ -448,7 +448,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Scene Visibility
       index: 9
@@ -459,7 +459,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: unity-search-toolbar
       index: 10
@@ -470,7 +470,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Particles
       index: 11
@@ -481,7 +481,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Scene View/Physics Debugger
       index: 12
@@ -492,14 +492,14 @@ MonoBehaviour:
       collapsed: 0
       displayed: 0
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: 0, y: 25}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
       id: Tool Settings
       index: 13
       layout: 4
   m_WindowGUID: d69a67902db7f994ca099bec79d22ce1
   m_Gizmos: 1
-  m_OverrideSceneCullingMask: 4611686018427387905
+  m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
   m_2DMode: 0
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -8.9, y: 1.016, z: -1.1408958}
+    m_Target: {x: -13.120723, y: -3.1376202, z: 2.0891087}
     speed: 2
-    m_Value: {x: -8.9, y: 1.016, z: -1.1408958}
+    m_Value: {x: -13.120723, y: -3.1376202, z: 2.0891087}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -556,13 +556,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.10411551, y: 0.63002634, z: -0.085773, w: -0.764762}
+    m_Target: {x: 0.0750746, y: -0.5519176, z: 0.049974855, w: 0.8290057}
     speed: 2
-    m_Value: {x: -0.10411597, y: 0.63002914, z: -0.08577338, w: -0.7647654}
+    m_Value: {x: 0.0750747, y: -0.5519184, z: 0.049974922, w: 0.82900685}
   m_Size:
-    m_Target: 0.91019136
+    m_Target: 10
     speed: 2
-    m_Value: 0.91019136
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -608,10 +608,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 468
-    y: 181
-    width: 973
-    height: 501
+    x: 444
+    y: 73
+    width: 1775
+    height: 815
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -632,11 +632,11 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 831
-    width: 1110
-    height: 467
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+    y: 833
+    width: 1109
+    height: 465
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 11}
   m_Panes:
   - {fileID: 11}
@@ -665,9 +665,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1
-    y: 912
-    width: 1109
-    height: 446
+    y: 914
+    width: 1108
+    height: 444
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -685,22 +685,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/AddOns/MgFPS_SniperRifle
+    - Assets/FPS/Prefabs/Enemies
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AddOns/MgFPS_SniperRifle
+  - Assets/FPS/Prefabs/Enemies
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\710293\Unity\GitHub\FPSMicroGonzalez\FPSMicroGameGonzalez
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e0670100
-    m_LastClickedID: 92128
-    m_ExpandedIDs: 00000000f6c00000f8c0000000ca9a3b
+    m_SelectedIDs: e65d0100
+    m_LastClickedID: 89574
+    m_ExpandedIDs: 00000000a0c30000bac30000ccc3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -728,7 +728,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f6c0000000ca9a3b
+    m_ExpandedIDs: 00000000a0c30000bac3000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -753,8 +753,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 2e0cfcff
-    m_LastClickedInstanceID: -259026
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -828,7 +828,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1110
+    x: 1109
     y: 0
     width: 281
     height: 1298
@@ -861,7 +861,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1111
+    x: 1110
     y: 81
     width: 279
     height: 1277
@@ -875,8 +875,8 @@ MonoBehaviour:
     m_CachedPref: 160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -259026
-  m_LastVerticalScrollValue: 270
+  m_LastInspectedObjectInstanceID: -1
+  m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -926,9 +926,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1391
+    x: 1390
     y: 0
-    width: 327
+    width: 328
     height: 1298
   m_MinSize: {x: 300, y: 300}
   m_MaxSize: {x: 4000, y: 4000}
@@ -957,9 +957,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1392
+    x: 1391
     y: 81
-    width: 326
+    width: 327
     height: 1277
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -978,19 +978,8 @@ MonoBehaviour:
     m_Criteria:
       m_Items: []
     m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Tutorials.Core.Editor.TutorialWindow, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
+      m_MaskingEnabled: 0
+      m_UnmaskedViews: []
     m_Summary: 
     m_Description: 
     m_InstructionBoxTitle: 
@@ -998,16 +987,13 @@ MonoBehaviour:
     m_TutorialButtonText: 
   - m_Type: 0
     Title:
-      m_Untranslated: Build and publish
+      m_Untranslated: Import assets
     Text:
-      m_Untranslated: "Before you publish your game, discover more ways to customize
-        it with the FPS<a href=\"https://learn.unity.com/project/fps-template\">Creative
-        Mods</a>.\n\nWhen you\u2019re ready, this tutorial will guide you through
-        building and publishing your game on a webpage that you can share with friends!\n\n<b>BONUS:</b>
-        by publishing your game, you\u2019ll unlock a powerful <b>Sniper Rifle</b>
-        to use in future builds!\n\n<b>Notes:</b>\n\n\u2022 The Creative Mods link
-        above will open the <b>Unity Learn</b> website in your default browser.\n\n\u2022
-        Please keep in mind that building this Unity project can take some time."
+      m_Untranslated: "In this tutorial, you\u2019ll learn how to import assets to
+        your project.\n\nThe <b>Unity Asset Store</b> is a growing library of free
+        and commercial assets that support your creativity.\n\nThe assets include
+        everything from textures, animations, and models to entire project examples,
+        tutorials, and Editor extensions."
     m_Tutorial: {fileID: 0}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
@@ -1047,38 +1033,7 @@ MonoBehaviour:
     Text:
       m_Untranslated: 
     m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: bbe7aeeb661974db4999246afffec8b3, type: 3}
-    m_Video: {fileID: 32900000, guid: 5b7680371f1b34fe49c339038de4258f, type: 3}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Tutorials.Core.Editor.TutorialWindow, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 0
-    Title:
-      m_Untranslated: Open the WebGL Publisher
-    Text:
-      m_Untranslated: "In this tutorial, you\u2019ll export your Microgame project
-        as a WebGL game. Your game will then have its own dedicated webpage. "
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
+    m_Image: {fileID: 2800000, guid: 7047302abcab8496488f93b3f766350d, type: 3}
     m_Video: {fileID: 0}
     m_CriteriaCompletion: 0
     m_Criteria:
@@ -1091,66 +1046,17 @@ MonoBehaviour:
     m_InstructionBoxTitle: 
     m_InstructionText: 
     m_TutorialButtonText: 
-  - m_Type: 1
-    Title:
-      m_Untranslated: Open the WebGL Publisher window
-    Text:
-      m_Untranslated: In the top menu, go to <b>Publish</b> > <b>WebGL project</b>.
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items:
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.EditorWindowCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: -4710486571970311243, guid: fcca6e4cbcfd27e49bf16a7c3a6eb019,
-          type: 2}
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 7
-    Title:
-      m_Untranslated: 
-    Text:
-      m_Untranslated: 
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: 8397db88d32d5418e8ebc7e6bb6ccafc, type: 3}
-    m_Video: {fileID: 32900000, guid: e9f4ef2422b80da4ea767e6d99be57c4, type: 3}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Play.Publisher.Editor.PublisherWindow, Unity.Play.Publisher.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
   - m_Type: 0
     Title:
-      m_Untranslated: Get started
+      m_Untranslated: Visit the Asset Store
     Text:
-      m_Untranslated: "Now that you\u2019ve opened the <b>WebGL Publisher</b> window,
-        you can set up Unity Editor to publish projects on Unity Play."
+      m_Untranslated: 'You can visit the <b>Unity Asset Store</b> either through
+        the website or the <b>Assets</b> folder of the Unity Editor.
+
+
+        <b>Note:</b>
+        It''s faster and easier to download and import assets directly through the
+        Unity Editor, but there are more assets available on the website.'
     m_Tutorial: {fileID: 0}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
@@ -1169,18 +1075,19 @@ MonoBehaviour:
     Title:
       m_Untranslated: 
     Text:
-      m_Untranslated: Select <b>Get Started</b> in the <b>WebGL Publisher</b> window.
+      m_Untranslated: "<b>1.</b> Click the link below to view the free <b>Food pack</b>
+        assets on the Asset Store website.\n\n<a href=\"https://assetstore.unity.com/packages/3d/food-pack-3d-microgames-add-ons-163295\">Asset
+        Store</a>\n\n<b>2.</b> On the webpage, add the assets by clicking the <b>\"Add
+        to My Assets\u201D</b> button.\n\n<b>3.</b> After the <b>Food pack</b> assets
+        have been added, click the <b>\"Open in Unity\"</b> button.\n\n<b>4.</b>
+        Return to the Unity Editor, where the <b>Package Manager</b> window will
+        appear. Select <b>Next</b> to continue."
     m_Tutorial: {fileID: 0}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
     m_CriteriaCompletion: 0
     m_Criteria:
-      m_Items:
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.ArbitraryCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: 1171428662055131150, guid: 97f3ee3958d87894d8f23cc258f28f0e,
-          type: 2}
+      m_Items: []
     m_MaskingSettings:
       m_MaskingEnabled: 0
       m_UnmaskedViews: []
@@ -1195,25 +1102,14 @@ MonoBehaviour:
     Text:
       m_Untranslated: 
     m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: d8622fca6b1897a4282325fd961b7f23, type: 3}
+    m_Image: {fileID: 2800000, guid: 2ca2357d648eb412d8129fa039b986fe, type: 3}
     m_Video: {fileID: 0}
     m_CriteriaCompletion: 0
     m_Criteria:
       m_Items: []
     m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Play.Publisher.Editor.PublisherWindow, Unity.Play.Publisher.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
+      m_MaskingEnabled: 0
+      m_UnmaskedViews: []
     m_Summary: 
     m_Description: 
     m_InstructionBoxTitle: 
@@ -1221,10 +1117,9 @@ MonoBehaviour:
     m_TutorialButtonText: 
   - m_Type: 0
     Title:
-      m_Untranslated: Sign in
+      m_Untranslated: Import the assets
     Text:
-      m_Untranslated: To publish your game on Unity Play, you need to sign in with
-        your Unity ID.
+      m_Untranslated: You can download and import assets using the <b>Package Manager.</b>
     m_Tutorial: {fileID: 0}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
@@ -1243,256 +1138,28 @@ MonoBehaviour:
     Title:
       m_Untranslated: 
     Text:
-      m_Untranslated: Select <b>Sign in</b>, then sign in with your Unity ID.
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items:
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.ArbitraryCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: 1171428662055131150, guid: eb4604b43980b3740a07722643b2ecbe,
-          type: 2}
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 7
-    Title:
-      m_Untranslated: 
-    Text:
-      m_Untranslated: 
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: 8397db88d32d5418e8ebc7e6bb6ccafc, type: 3}
-    m_Video: {fileID: 32900000, guid: 662bbb629effd9c4bbf9fadf15b78224, type: 3}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Play.Publisher.Editor.PublisherWindow, Unity.Play.Publisher.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 0
-    Title:
-      m_Untranslated: Build your game
-    Text:
-      m_Untranslated: "Before you can publish your game, you need to build it. This
-        will create a playable file of your game on your computer.\n\n<b>Notes:</b>\n\n\u2022
-        This step could take up to 30 minutes.\n\n\u2022 If you are prompted to switch
-        to WebGL, click <b>\"Switch to WebGL\"</b> and choose a folder for your build
-        in the window that appears.\n\n\u2022 You can use the default folder, or
-        create a new folder to store your build files."
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 1
-    Title:
-      m_Untranslated: Create a build
-    Text:
-      m_Untranslated: 'Select <b>Build and Publish</b>.
+      m_Untranslated: '<b>1.</b> At the top of the <b>Package Manager</b> window,
+        in the <b>Packages:</b> dropdown, select <b>My Assets</b>.
 
 
-        When your build
-        is complete, select <b>Next</b> to continue.'
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 1
-    m_Criteria:
-      m_Items:
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.BuildStartedCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: 8633940888800370194, guid: daafa2d048ca372498d84eb1ff8a9a31,
-          type: 2}
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.ArbitraryCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: -6242357031604912793, guid: daafa2d048ca372498d84eb1ff8a9a31,
-          type: 2}
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 7
-    Title:
-      m_Untranslated: 
-    Text:
-      m_Untranslated: 
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: 8397db88d32d5418e8ebc7e6bb6ccafc, type: 3}
-    m_Video: {fileID: 32900000, guid: 1e217e28d0252294f8db002b95c87209, type: 3}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Play.Publisher.Editor.PublisherWindow, Unity.Play.Publisher.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 0
-    Title:
-      m_Untranslated: Publish your game
-    Text:
-      m_Untranslated: 'Now that your build is ready, you can publish it on Unity
-        Play!
+        <b>2.</b>
+        Select the <b>Food pack</b> asset, then click the <b>Import</b> button to
+        open the <b>Import Unity Package</b> window.
 
 
-        <b>Note:</b> This step could take up to 30 minutes.'
+        <b>3.</b> In the <b>Import
+        Unity Package</b> window, select the <b>Import</b> button.
+
+
+        <b>4.</b>
+        When the import has finished, return to this tutorial and select <b>Next</b>
+        to continue.'
     m_Tutorial: {fileID: 0}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
     m_CriteriaCompletion: 0
     m_Criteria:
       m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 1
-    Title:
-      m_Untranslated: 
-    Text:
-      m_Untranslated: Select <b>Publish</b> to publish your build on Unity Play.
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items:
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.ArbitraryCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: -2340161092345423632, guid: 6f964d3cc40f45747aebcf0c57f609ba,
-          type: 2}
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 7
-    Title:
-      m_Untranslated: 
-    Text:
-      m_Untranslated: 
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: 8397db88d32d5418e8ebc7e6bb6ccafc, type: 3}
-    m_Video: {fileID: 32900000, guid: 1e217e28d0252294f8db002b95c87209, type: 3}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 1
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Play.Publisher.Editor.PublisherWindow, Unity.Play.Publisher.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 0
-    Title:
-      m_Untranslated: Your game is being processed
-    Text:
-      m_Untranslated: "Your game is uploading to Unity Play. \n\nIn a few minutes,
-        you'll be able to share your game with your friends!"
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items: []
-    m_MaskingSettings:
-      m_MaskingEnabled: 0
-      m_UnmaskedViews: []
-    m_Summary: 
-    m_Description: 
-    m_InstructionBoxTitle: 
-    m_InstructionText: 
-    m_TutorialButtonText: 
-  - m_Type: 1
-    Title:
-      m_Untranslated: 
-    Text:
-      m_Untranslated: 
-    m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 0}
-    m_Video: {fileID: 0}
-    m_CriteriaCompletion: 0
-    m_Criteria:
-      m_Items:
-      - Type:
-          m_TypeName: Unity.Tutorials.Core.Editor.ArbitraryCriterion, Unity.Tutorials.Core.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        Criterion: {fileID: -2340161092345423632, guid: 9903de0d10380094eb753dcdac1f5e68,
-          type: 2}
     m_MaskingSettings:
       m_MaskingEnabled: 0
       m_UnmaskedViews: []
@@ -1507,25 +1174,14 @@ MonoBehaviour:
     Text:
       m_Untranslated: 
     m_Tutorial: {fileID: 0}
-    m_Image: {fileID: 2800000, guid: f3cffb91162b24b428d0f2ab4831d5e7, type: 3}
+    m_Image: {fileID: 2800000, guid: ea9d8d0cfa14342e88e692cb7b8a2ed8, type: 3}
     m_Video: {fileID: 0}
     m_CriteriaCompletion: 0
     m_Criteria:
       m_Items: []
     m_MaskingSettings:
       m_MaskingEnabled: 0
-      m_UnmaskedViews:
-      - m_SelectorType: 1
-        m_ViewType:
-          m_TypeName: 
-        m_EditorWindowType:
-          m_TypeName: Unity.Connect.Share.Editor.ShareWindow, Unity.Connect.Share.Editor,
-            Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-        m_AlternateEditorWindowTypes:
-          m_Items: []
-        m_MaskType: 0
-        m_MaskSizeModifier: 0
-        m_UnmaskedControls: []
+      m_UnmaskedViews: []
     m_Summary: 
     m_Description: 
     m_InstructionBoxTitle: 
@@ -1533,20 +1189,10 @@ MonoBehaviour:
     m_TutorialButtonText: 
   - m_Type: 0
     Title:
-      m_Untranslated: Share your game
+      m_Untranslated: Find and use the assets
     Text:
-      m_Untranslated: "You\u2019re almost ready to share! Before you do, add some
-        details for your game directly on Unity Play: a title, description, and a
-        thumbnail, if you like.\n\nIt\u2019s also a good idea to test one more time,
-        to make sure that everything works as expected.\n\n<b>Your journey doesn't
-        end here:</b>\n\n\u2022 When you\u2019re ready, share the link so others
-        can play your game!\n\n\u2022 After publishing your game, you\u2019ll find
-        the bonus <b>Sniper Rifle</b> added to My Assets in the Unity Asset Store.
-        Go check it out!\n\n\u2022 You can <a href=\"https://learn.unity.com/project/fps-template\">try
-        out the Creative Mods</a> and explore other Microgames on <a href=\"https://learn.unity.com/\">Unity
-        Learn!</a> These links will open in your default browser window.\n\n\u2022
-        Learn more about Unity and continue your creator journey with <a href=\"https://learn.unity.com/pathway/unity-essentials\">Unity
-        Essentials!</a>"
+      m_Untranslated: You'll find all imported assets in the <b>Assets</b> folder
+        of the Project window.
     m_Tutorial: {fileID: 0}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
@@ -1565,8 +1211,99 @@ MonoBehaviour:
     Title:
       m_Untranslated: 
     Text:
-      m_Untranslated: Select <b>Done</b> to return to the tutorial overview.
+      m_Untranslated: '<b>1.</b> Select the Assets folder and search "food" in the
+        search bar.
+
+
+        <b>2.</b> Open the folder titled <b>Mg3D_Food.</b>
+
+
+        <b>3.</b>
+        Select and drag the assets into the Scene view.
+
+
+        <b>4.</b> When
+        you''re done, select <b>Next</b> to continue.'
     m_Tutorial: {fileID: 0}
+    m_Image: {fileID: 0}
+    m_Video: {fileID: 0}
+    m_CriteriaCompletion: 0
+    m_Criteria:
+      m_Items: []
+    m_MaskingSettings:
+      m_MaskingEnabled: 0
+      m_UnmaskedViews: []
+    m_Summary: 
+    m_Description: 
+    m_InstructionBoxTitle: 
+    m_InstructionText: 
+    m_TutorialButtonText: 
+  - m_Type: 6
+    Title:
+      m_Untranslated: 
+    Text:
+      m_Untranslated: 
+    m_Tutorial: {fileID: 0}
+    m_Image: {fileID: 2800000, guid: cf2b88c8b41ea4e42ba6e17726c32b87, type: 3}
+    m_Video: {fileID: 0}
+    m_CriteriaCompletion: 0
+    m_Criteria:
+      m_Items: []
+    m_MaskingSettings:
+      m_MaskingEnabled: 1
+      m_UnmaskedViews: []
+    m_Summary: 
+    m_Description: 
+    m_InstructionBoxTitle: 
+    m_InstructionText: 
+    m_TutorialButtonText: 
+  - m_Type: 0
+    Title:
+      m_Untranslated: Next steps
+    Text:
+      m_Untranslated: "In this tutorial, you learned how to import, find, and place
+        an asset into your project. \n\nNext, you'll learn how to build and publish
+        your project on a shareable webpage!"
+    m_Tutorial: {fileID: 0}
+    m_Image: {fileID: 0}
+    m_Video: {fileID: 0}
+    m_CriteriaCompletion: 0
+    m_Criteria:
+      m_Items: []
+    m_MaskingSettings:
+      m_MaskingEnabled: 0
+      m_UnmaskedViews: []
+    m_Summary: 
+    m_Description: 
+    m_InstructionBoxTitle: 
+    m_InstructionText: 
+    m_TutorialButtonText: 
+  - m_Type: 1
+    Title:
+      m_Untranslated: 
+    Text:
+      m_Untranslated: 'Select <b>Tutorial 6: Build and publish</b> to continue directly,
+        or <b>Done</b> to return to the tutorial overview.'
+    m_Tutorial: {fileID: 0}
+    m_Image: {fileID: 0}
+    m_Video: {fileID: 0}
+    m_CriteriaCompletion: 0
+    m_Criteria:
+      m_Items: []
+    m_MaskingSettings:
+      m_MaskingEnabled: 0
+      m_UnmaskedViews: []
+    m_Summary: 
+    m_Description: 
+    m_InstructionBoxTitle: 
+    m_InstructionText: 
+    m_TutorialButtonText: 
+  - m_Type: 2
+    Title:
+      m_Untranslated: 
+    Text:
+      m_Untranslated: 'Tutorial 6: Build and publish'
+    m_Tutorial: {fileID: 11400000, guid: c122a1a2efeb58349b8154e42481067b, type: 2}
     m_Image: {fileID: 0}
     m_Video: {fileID: 0}
     m_CriteriaCompletion: 0
